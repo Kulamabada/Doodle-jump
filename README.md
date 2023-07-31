@@ -2,7 +2,6 @@
 
 The game was was made using SDL2 and C++.
 
-#Description
 The player controls a doodle which automatically jumps off platforms and tries to
 avoid falling. The goal is to reach the highest heights and get the biggest score.
 The game is infinite. The camera moves up with a player.
